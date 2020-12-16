@@ -1,5 +1,7 @@
 # dadJokes
 
+this is a small project in VUE NUXT that brought in a open dad jokes API with search functionalities.
+
 ## Build Setup
 
 ```bash
